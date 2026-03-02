@@ -1,0 +1,10 @@
+## Hello,
+### I'm Jonathan García 
+
+#### About me
+I am a programming student interested in the backend and always learning something new.
+- Learning: Backend Web Development 
+- Languages: JavaScript, Golang
+- Contact: yugidr0@gmail.com
+
+
